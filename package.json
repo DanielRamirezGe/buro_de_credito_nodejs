@@ -1,0 +1,28 @@
+{
+  "name": "buro_de_credito_nodejs",
+  "version": "1.0.0",
+  "description": "\"Automatizar la obtencion de datos del buro de credito con nodejs\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielRamirezGe/buro_de_credito_nodejs.git"
+  },
+  "keywords": [
+    "Buro",
+    "de",
+    "credito",
+    "nodejs"
+  ],
+  "author": "Daniel Adrian Ramirez George",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielRamirezGe/buro_de_credito_nodejs/issues"
+  },
+  "homepage": "https://github.com/DanielRamirezGe/buro_de_credito_nodejs#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
