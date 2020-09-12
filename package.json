@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/DanielRamirezGe/buro_de_credito_nodejs#readme",
   "dependencies": {
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
